@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently pusuing my ug on CS-AIE
-- 🌱 I’m interested at researches on robotics. Also look up to do projects in ML and DL
+- 🌱 I’m interested at researches on robotics. Also look up to do projects in AI/ML and full-stack dev
 - 📫 How to reach me: meghacdlm2002@gmail.com , [Megha2309](https://t.me/Megha2309)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Imagination is my hobby. Achieving is my passion.
